@@ -3,7 +3,6 @@
 using namespace std;
 void call_display(int Array[5][6]);
 void call_graph(int Array[5][6]);
-
 int main()
 {
 	int Array[5][6];
